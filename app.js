@@ -56,6 +56,7 @@ function sortearAmigo(){
         //Definindo o texto com intem sorteado
         li.textContent = itemSorteado;
         //Adicionando o novo elemento li ao elemento ul
-        ul.appendChild(li);        
+        ul.appendChild(li);
+        
     }
 }
