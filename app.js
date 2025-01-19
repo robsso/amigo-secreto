@@ -4,3 +4,22 @@
 let amigos = [];
 
 
+function adicionarAmigo(){
+    //Capturar valor da entrada.
+    let adicionarALista = document.getElementById('amigo').value;
+
+    //Validação de entrada.
+    if (adicionarALista == ''){
+        alert('Por favor, insira um nome.')
+    }else {
+        // Cria um novo elemento li
+        let itemLista = document.createElement('li');
+        itemLista.appendChild(document.createTextNode(adicionarALista));
+
+        // Adiciona o elemento li à lista ul
+        document.getElementById('listaAmigos').appendChild(itemLista);
+
+        //Limpar campo de entrada
+        document.getElementById('amigo').value = '';
+    }
+}
