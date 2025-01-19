@@ -37,7 +37,25 @@ function atualizarAmigo(){
         //inserindo o nome no li na posição o item
         li.textContent = amigos[itens];
         //inserindo o li na ul 
-        
         ul.appendChild(li);
+    }
+}
+
+function sortearAmigo(){
+    //Verifica se o array está vazio
+    if (amigos.length > 0){
+        //Gerando idice aleatorio
+        let geraIndex = Math.floor(Math.random() * amigos.length);
+        //Obtendo o nome do indice sorteado
+        let itemSorteado = amigos[geraIndex];
+
+        //Obtendo a referencia do elemento ul
+        let ul = document.getElementById('resultado');
+        //Criando um novo elemente li 
+        let li = document.createElement('li');
+        //Definindo o texto com intem sorteado
+        li.textContent = itemSorteado;
+        //Adicionando o novo elemento li ao elemento ul
+        ul.appendChild(li);        
     }
 }
