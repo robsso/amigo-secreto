@@ -22,6 +22,7 @@
 <h3 id="comousar">Apreendendo a ulilizar a aplicação</h3>
 <p>Digite o nome do seu amigo e logo em seguida clique em <strong>Adicionar</strong></p>
 ![img1](https://github.com/user-attachments/assets/f460e061-ecec-4167-9276-613dc6232a87)
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/45153140/404710353-1181e248-73f9-48e4-bd15-0a40c0bf0d25.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250120%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250120T145024Z&X-Amz-Expires=300&X-Amz-Signature=f281b3b47303df95db8135118edaac1d34ded088d55d00e670ffb30b09c2469d&X-Amz-SignedHeaders=host">
 <p>Após ter<strong>Adicionado</strong> os seus amigos a lista clique em <strong>Sortear Amigo</strong></p>
 ![img2](https://github.com/user-attachments/assets/1181e248-73f9-48e4-bd15-0a40c0bf0d25)
 <p>Visite o projeto e sorteie o seu amigo secreto</p>
