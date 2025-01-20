@@ -37,6 +37,7 @@ body {
     justify-content: center;
     align-items: center;
     padding: 40px 0 0;
+    
 }
 
 /* Seção de entrada */
@@ -54,13 +55,42 @@ body {
 
 /* Títulos */
 .main-title {
-    font-size: 48px;
+    font-size: 3em;
     font-family: "Merriweather", serif;
     font-weight: 900;
     font-style: italic;
     color: var(--color-white);
 }
 
+.msg {
+}
+.msg {
+    font-size: 1em;
+    /*Animação do title*/
+    border-right: 4px solid #fe652b;
+    overflow: hidden;
+    white-space: nowrap;
+    animation: blinkMarker 0.8s infinite, tipyng 10s infinite steps(30, end) ;
+}
+@keyframes blinkMarker {
+    50%{
+        border-right-color: transparent;
+    }
+}
+@keyframes tipyng {
+    0% {
+        width: 0;
+    }
+    40% {
+        width: 340px;
+    }
+    60% {
+        width: 340px;
+    }
+    100% {
+        width: 0;
+    }
+}
 .section-title {
     font-family: "Inter", serif;
     font-size: 36px;
