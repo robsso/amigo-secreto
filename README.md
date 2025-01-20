@@ -16,8 +16,10 @@
 <p><strong>Validar entrada:</strong> Se o campo de texto estiver vazio, o programa exibirá um alerta solicitando um nome válido.</p>
 <p><strong>Visualizar a lista:</strong> Os nomes inseridos aparecerão em uma lista abaixo do campo de entrada.</p>
 <p><strong>Sorteio aleatório:</strong> Ao clicar no botão "Sortear Amigo", um nome da lista será selecionado aleatoriamente e exibido na página.</p>
-<h3 id="comousar">Apreendendo a ulilizar aplicação</h3>
-[iserir video]
+<h3 id="comousar">Apreendendo a ulilizar a aplicação</h3>
+<p>Digite o nome do seu amigo e logo em seguida clique em <strong>Adicionar</strong></p>
+![img1](https://github.com/user-attachments/assets/f460e061-ecec-4167-9276-613dc6232a87)
+
 <h3 id="#autor">Autor</h3>
 <img src="https://avatars.githubusercontent.com/u/45153140?v=4" width=115>
 
