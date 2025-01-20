@@ -2,9 +2,11 @@
 <h2>Sobre</h2>
 <p>Projeto desenvolvido com base nos conhecimentos adiquiridos no curso logica de programação com JavaScript</p>
 <h2>Tecnologias</h2>
+<div>
 <img src="https://img.shields.io/badge/HTML-DC0A00?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-3d4cff?&style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</div>
 <li><a href="#descprojeto">Descrição do seu projeto</a></li>
 <li><a href="#funcionalidades">Funcionalidades</a></li>    
 <li><a href="#comousar">Como os usuários podem utilizá-lo</a></li>
@@ -19,7 +21,8 @@
 <h3 id="comousar">Apreendendo a ulilizar a aplicação</h3>
 <p>Digite o nome do seu amigo e logo em seguida clique em <strong>Adicionar</strong></p>
 ![img1](https://github.com/user-attachments/assets/f460e061-ecec-4167-9276-613dc6232a87)
-
+<p>Após ter<strong>Adicionado</strong> os seus amigos a lista clique em <strong>Sortear Amigo</strong></p>
+![img2](https://github.com/user-attachments/assets/1181e248-73f9-48e4-bd15-0a40c0bf0d25)
 <h3 id="#autor">Autor</h3>
 <img src="https://avatars.githubusercontent.com/u/45153140?v=4" width=115>
 
